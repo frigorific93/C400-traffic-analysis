@@ -18,5 +18,4 @@ to 0.831 accuracy and 0.802 macro F1 on the same evalu-
 ation protocol. I also study the effect of the flow timeout
 used during feature extraction and show that timeout choice
 measurably impacts downstream accuracy. The results can
-be viewed at https://github.com/frigorific93/C400-traffic-
-analysis
+be viewed at https://github.com/frigorific93/C400-traffic-analysis
